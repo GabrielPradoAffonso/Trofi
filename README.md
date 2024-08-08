@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# Bem vindo ao Trofí 🍔
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Trofí
 
-## Get started
+O Trofí é um aplicativo criado para listar restaurantes e comidas. Utilizamos [NativeWind](https://www.nativewind.dev/v4/overview) para o estilo e uma API falsa para simular os dados dos restaurantes e comidas. O app inclui as seguintes funcionalidades:
 
-1. Install dependencies
+Tela de Banner: Apresenta um banner principal para destacar promoções ou informações importantes.
+
+Comidas em Alta: Exibe uma lista de comidas populares com detalhes como nome, preço e avaliação. Isso ajuda os usuários a descobrirem as opções mais recomendadas.
+
+Famosos no Trofí: Mostra uma seção com restaurantes que são populares ou recomendados pelo Trofí, destacando as melhores opções.
+
+Restaurantes: Apresenta uma lista abrangente de restaurantes, permitindo aos usuários explorar e encontrar os lugares para comer que melhor atendem às suas preferências.
+
+## Como utilizar
+
+Este é um projeto [Expo](https://expo.dev) criado com [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+1. Instale as dependências
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Inicie o app
 
    ```bash
     npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+Na saída, você encontrará opções para abrir o app em um
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
 - [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
 - [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [Expo Go](https://expo.dev/go), um sandbox limitado para experimentar o desenvolvimento de apps com Expo.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Você pode começar a desenvolver editando os arquivos dentro do diretório app. Este projeto usa [roteamento baseado em arquivos.](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## Vídeos
+https://github.com/user-attachments/assets/235799d1-02a9-442e-ada5-90e146c932e0
 
-When you're ready, run:
+## Créditos 
 
-```bash
-npm run reset-project
-```
+O desenvolvimento do Trofí foi realizado durante uma aula do [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador) no YouTube. Acesse o vídeo completo para mais detalhes sobre o projeto:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+[Assista à aula no YouTube](https://www.youtube.com/watch?v=aABUs_L4AZg)
